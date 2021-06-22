@@ -1,0 +1,35 @@
+.chooser{
+   width: 550px;
+   height: 100px;
+   display: inline-flex;
+}
+.choose_user {
+    width: 250px;
+    height: 100px;
+    display: inline-flex;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 30px;
+    border: 2px solid #0016b0;
+    justify-content: center;
+
+}
+
+.choose_user:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+  }
+
+.chooser h1{
+    line-height: 100px;    
+   padding: 0px;
+
+}
+.chooser h2{
+  margin-left: 25px;
+  margin-top: 10px;
+  padding: 0px;
+}
